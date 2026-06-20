@@ -1,10 +1,10 @@
 {
   "spec": "soksak-plugin-spec@1",
   "id": "soksak-plugin-icons-codicons",
-  "name": "Codicons 아이콘",
+  "name": { "en": "Codicons Icons", "ko": "Codicons 아이콘" },
   "version": "1.0.0",
   "repo": "https://github.com/soksak-ai/soksak-plugin-icons-codicons.git",
-  "description": "VS Code Codicons 아이콘 셋(CC-BY-4.0, microsoft/vscode-codicons) — 활성화하면 설정 > 아이콘 셋에서 선택할 수 있습니다",
+  "description": { "en": "VS Code Codicons icon set (CC-BY-4.0, microsoft/vscode-codicons) — once enabled, select it under Settings > Icon Set.", "ko": "VS Code Codicons 아이콘 셋(CC-BY-4.0, microsoft/vscode-codicons) — 활성화하면 설정 > 아이콘 셋에서 선택할 수 있습니다" },
   "entry": "main.js",
   "permissions": ["ui"],
   "contributes": {
